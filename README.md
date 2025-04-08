@@ -45,3 +45,5 @@ This project uses the Python packages listed in `requirements.txt`. Please insta
    - `main_dnn.py`: Deep Neural Network
    - `main_dnn_batch.py`: DNN with batch processing  
      *(The main difference between `main_dnn.py` and `main_dnn_batch.py` is the use of batch processing. Batch processing is recommended.)*
+
+![image](https://zenodo.org/badge/DOI/10.5281/zenodo.15172055.svg)
